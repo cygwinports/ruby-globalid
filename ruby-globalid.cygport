@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-globalid"
-VERSION=0.3.6
+VERSION=0.3.7
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Rails models URI reference support"
